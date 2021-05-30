@@ -1,14 +1,14 @@
-#Resturant List
+# Resturant List
 
 Resturant List via Express.js. You're able to search your favorite resturants. The list also provides useful information form basic information to contact.
 
-##Prerequisites
+## Prerequisites
 
 Make sure you've installed the following prerequisites.
 * [Git](https://git-scm.com/downloads)
 * [Node.js](https://nodejs.org/en/download/)
 
-##Installation
+## Installation
 
 1. Use terminal to clone the repository.
 ```
@@ -32,10 +32,10 @@ When the terminal shows the following messages, your application should run on p
 Express is running on http://localhost:3000
 ```
 
-##Features
+## Features
 
 * Search by restaurant name and restaurant category.
 * View restaurant details including category, location, phonend google map and etc.
 
-##Contributor
+## Contributor
 * [CT Yeh](https://github.com/ctyeh0625)
