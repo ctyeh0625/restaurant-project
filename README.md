@@ -1,6 +1,6 @@
 # Resturant List
 
-Resturant List via Express.js. You're able to search your favorite resturants. The list also provides useful information form basic information to contact.
+Resturant List is an application based on Node.js, Express. You're able to search your favorite resturants. The list also provides useful information form basic information to contact.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ $ git clone https://github.com/ctyeh0625/restaurant-project.git
 ```
 2. Move to the application folder.
 ```
-cd restaurant-project
+$ cd restaurant-project
 ```
 3. Run this in the application folder. 
 ```
@@ -26,7 +26,7 @@ $ npm install
 ```
 $ npm run dev
 ```
-When the terminal shows the following messages, your application should run on port 3000 and just go to http://localhost:3000 in your browser.
+5. When the terminal shows the following messages, your application should run on port 3000 and just go to http://localhost:3000 in your browser.
 
 ```
 Express is running on http://localhost:3000
