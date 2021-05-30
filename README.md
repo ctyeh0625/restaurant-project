@@ -1,6 +1,6 @@
 # Restaurant List
 
-Resturant List is an application based on Node.js, Express. You're able to search your favorite resturants. The list also provides useful information from basic information to contact.
+Restaurant List is an application based on Node.js, Express. You're able to search your favorite resturants. The list also provides useful information from basic information to contact.
 
 ## Prerequisites
 
